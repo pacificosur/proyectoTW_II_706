@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<peliculas>
+    <pelicula>
+        <titulo>Venom</titulo>
+        <productor> Avi Arad</productor>
+        <director>Ruben Fleischer</director>
+        <actor>Tom Hardy</actor>
+        <comentarios>Buena</comentarios>
+    </pelicula>
+
+    <pelicula>
+        <titulo>Argo</titulo>
+        <productor>Damien Chazelle</productor>
+        <director>Damien Chazelle</director>
+        <actor>Ryan Gosling</actor>
+        <comentarios>Excelente</comentarios>
+    </pelicula>
+
+    <pelicula>
+        <titulo>Together</titulo>
+        <productor>Damien Chazelle</productor>
+        <director>Damien Chazelle</director>
+        <actor>Ryan Gosling</actor>
+        <comentarios>Excelente</comentarios>
+    </pelicula>
+
+    <pelicula>
+        <titulo>Megalodon</titulo>
+        <productor>Damien Chazelle</productor>
+        <director>Damien Chazelle</director>
+        <actor>Ryan Gosling</actor>
+        <comentarios>Excelente</comentarios>
+    </pelicula>
+</peliculas>
